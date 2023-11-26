@@ -1,0 +1,31 @@
+{
+  "name": "musidx",
+  "version": "0.1.0",
+  "description": "Music indexing library",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "lib/",
+    "index.js",
+    "package.json",
+    "license.md",
+    "readme.md"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "fast-glob": "^3.3.1",
+    "lodash.clonedeep": "^4.5.0",
+    "lodash.compact": "^3.0.1",
+    "lodash.isnumber": "^3.0.3",
+    "lodash.isstring": "^4.0.1",
+    "lodash.omit": "^4.5.0",
+    "lodash.orderby": "^4.6.0",
+    "lodash.pick": "^4.4.0",
+    "music-metadata": "^8.1.4"
+  }
+}
