@@ -1,6 +1,6 @@
 {
   "name": "musidx",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Music indexing library",
   "main": "index.js",
   "type": "module",
@@ -26,6 +26,8 @@
     "lodash.omit": "^4.5.0",
     "lodash.orderby": "^4.6.0",
     "lodash.pick": "^4.4.0",
-    "music-metadata": "^8.1.4"
+    "m3u8-parser": "^7.1.0",
+    "music-metadata": "^8.1.4",
+    "xml2js": "^0.6.2"
   }
 }
