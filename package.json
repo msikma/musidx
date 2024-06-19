@@ -1,5 +1,5 @@
 {
-  "name": "musidx",
+  "name": "@dada78641/musidx",
   "version": "0.1.1",
   "description": "Music indexing library",
   "main": "index.js",
